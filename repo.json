@@ -1,31 +1,18 @@
 {"packagehand_repo":[
-  {"vTag":"test_a1.0"},
+  {"vTag":"test_a1.1"},
 
   {"test-cmdlet":[
     {"latest":{
       "type":        "cmdlet",
-      "sourcetype":  "local",
-      "source":{
-        "win":       "./repo/test-cmdlet_latest.package",
-        "lnx":       "./repo/test-cmdlet_latest.package",
-        "mac":       "./repo/test-cmdlet_latest.package"
-      },
-      "format":      "zip",
-      "target":      "global",
-      "version":     "1.0",
-      "description": "Test cmdlet"
-    }},
-    {"LTS":{
-      "type":        "cmdlet",
       "sourcetype":  "web",
       "source":{
-        "win":       "https://github.com/simonkalmiclaesson/CrossShell/raw/main/assets/test-cmdlet_lts.package",
-        "lnx":       "https://github.com/simonkalmiclaesson/CrossShell/raw/main/assets/test-cmdlet_lts.package",
-        "mac":       "https://github.com/simonkalmiclaesson/CrossShell/raw/main/assets/test-cmdlet_lts.package"
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package"
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "0.9",
+      "version":     "1.1",
       "description": "Test cmdlet"
     }}
   ]}
