@@ -6,9 +6,9 @@
       "type":        "cmdlet",
       "sourcetype":  "web",
       "source":{
-        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package",
-        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package",
-        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet.package"
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package"
       },
       "format":      "zip",
       "target":      "global",
