@@ -15,1015 +15,1016 @@
       "target":      "global",
       "version":     "1.0",
       "description": "Cds to basedir."
-    }},
-
-    {"crosshell_bufferman":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet for saving and loading the pwsh screen buffer."
-      }}
-    ]},
-
-    {"crosshell_changedirectory":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet for changing your directory, moves to dir."
-      }}
-    ]},
-
-    {"crosshell_clear":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets for clearing the screen."
-      }}
-    ]},
-
-    {"crosshell_comments":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets for managing comments."
-      }}
-    ]},
-
-    {"crosshell_debugger":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Tool for enabling or disabling debug options in the shell."
-      }}
-    ]},
-
-    {"crosshell_externalShell":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet to start the console in a separate window."
-      }}
-    ]},
-
-    {"crosshell_get-help":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cdmlets for showing help. And to show more information about commands."
-      }}
-    ]},
-
-    {"crosshell_hello":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Hello beutiful world!"
-      }}
-    ]},
-
-    {"crosshell_hhead":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets regarding the header in the msgcentral."
-      }}
-    ]},
-
-    {"crosshell_host":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets regarding the host machine or shell."
-      }}
-    ]},
-
-    {"crosshell_interpreter":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets for cross-language interpritation in the console."
-      }}
-    ]},
-
-    {"crosshell_list":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for listing stuff out to the console."
-      }}
-    ]},
-
-    {"crosshell_logview":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for viewing and managing log files."
-      }}
-    ]},
-
-    {"crosshell_msgcentral":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for managing the message central."
-      }}
-    ]},
-
-    {"crosshell_packagehand":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Crosshells packagehandler. Packagehand!"
-      }}
-    ]},
-
-    {"crosshell_prefix":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets for managing the console prefix."
-      }}
-    ]},
-
-    {"crosshell_reload-restart":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for reloading and restarting the console"
-      }}
-    ]},
-
-    {"crosshell_scripthost":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Crosshell scripthost."
-      }}
-    ]},
-
-    {"crosshell_searchtermgenerator":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contians cmdlets for helping with generating search terms."
-      }}
-    ]},
-
-    {"crosshell_settings":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contians cmdlets for handling and managing settings for the console."
-      }}
-    ]},
-
-    {"crosshell_start":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for starting apps or files on the computer."
-      }}
-    ]},
-
-    {"crosshell_sys":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains system managing cmdlets."
-      }}
-    ]},
-
-    {"crosshell_text":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for testing, formating and managing text."
-      }}
-    ]},
-
-    {"crosshell_title":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlets to handle the console title."
-      }}
-    ]},
-
-    {"crosshell_touch":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Creates empty files."
-      }}
-    ]},
-
-    {"crosshell_variables":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contians cmdlets for handling variables."
-      }}
-    ]},
-
-    {"crosshell_devtools":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Development tools for Crosshell."
-      }}
-    ]},
-
-    {"crosshell_test-cmdlet":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Test cmdlet"
-      }}
-    ]},
-
-    {"Applinks":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets shortcuts for apps."
-      }}
-    ]},
-
-    {"IsItUp":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "An unofficial tool to check if a site is up using isitup.org"
-      }}
-    ]},
-
-    {"MandelBrot":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet for generating a Mandelbrot set."
-      }}
-    ]},
-
-    {"PlayBeepfile":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet for playing BeepFiles."
-      }}
-    ]},
-
-    {"SearchBlackBox":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "An unofficial tool to search for code on useblackbox.io."
-      }}
-    ]},
-
-    {"WifiFinder":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet for showing wifi passwords."
-      }}
-    ]},
-
-    {"box":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Draws a box on screen."
-      }}
-    ]},
-
-    {"calculator":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets for calculating numbers and other stuff."
-      }}
-    ]},
-
-    {"converters":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contians cmdlet for helping with converting diffrent formats and encodings."
-      }}
-    ]},
-
-    {"dashtime":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Whats the time? Whats the week? Dashtime got the answer."
-      }}
-    ]},
-
-    {"explorerForceRestart":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/explorerForceRestart/explorerForceRestart_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "Forces explorer.exe to restart."
-      }}
-    ]},
-
-    {"gamehub_games":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Cmdlet containing diffrent games."
-      }}
-    ]},
-
-    {"getConsoleAs":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlets and function to get the screenBuffer contents as diffrent file formats."
-      }}
-    ]},
-
-    {"gittip_fileman":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Github uploaded development of fileman (Semi-Open Source)"
-      }}
-    ]},
-
-    {"gittip_tree":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Modified version of the Show-Tree.ps1 script."
-      }}
-    ]},
-
-    {"namedpipes_ch":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Contains cmdlet for using the namedpipes sytem."
-      }}
-    ]},
-
-    {"newExplorer":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/newExplorer/newExplorer_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "Starts the hidden new explorer in windows."
-      }}
-    ]},
-
-    {"playfile":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Play a file."
-      }}
-    ]},
-
-    {"taskbarAligner":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/taskbarAligner/taskbarAligner_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "Tool to align the windows 11 taskbar"
-      }}
-    ]},
-
-    {"texttospeech":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Texttospeech."
-      }}
-    ]},
-
-    {"DictionaryConverter":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Dictionary converter for wordgrinder."
-      }}
-    ]},
-
-    {"wsl_installer":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Script to install WSL on windows."
-      }}
-    ]},
-
-    {"bat":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bat/bat_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "A cat(1) clone with syntax highlighting and Git integration."
-      }}
-    ]},
-
-    {"bottom":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bottom/bottom_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "A customizable cross-platform graphical process/system monitor for the terminal."
-      }}
-    ]},
-
-    {"cowsay":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Powershell port by Luke Sampson."
-      }}
-    ]},
-
-    {"emoji":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "This module enables you to retrieve a Unicode emoji as a string."
-      }}
-    ]},
-
-    {"exa":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/exa/exa_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "A modern replacement for ls."
-      }}
-    ]},
-
-    {"fortune":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Fortune for Windows Powershell."
-      }}
-    ]},
-
-    {"fuzzyfinder":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fuzzyfinder/fuzzyfinder_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "A command-line fuzzy finder."
-      }}
-    ]},
-
-    {"lolcat":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Simplified implementation of lolcat in PowerShell."
-      }}
-    ]},
-
-    {"micro":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "2.0.11",
-        "description": "A modern and intuitive terminal-based text editor."
-      }}
-    ]},
-
-    {"piglet":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "PowerShell implementation of the popular Figlet command line utility."
-      }}
-    ]},
-
-    {"psano":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Text Editor a bit like nano, written in pure powershell."
-      }}
-    ]},
-
-    {"pwshfetch":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
-          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
-          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package"
-        },
-        "format":      "zip",
-        "target":      "global",
-        "version":     "1.0",
-        "description": "Winfetch is a command-line system information utility written in PowerShell 5+."
-      }}
-    ]},
-
-    {"wordgrinder":[
-      {"latest":{
-        "type":        "cmdlet",
-        "sourcetype":  "web",
-        "source":{
-          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/wordgrinder/wordgrinder_latest_win.package",
-          "lnx":       "",
-          "mac":       ""
-        },
-        "format":      "zip",
-        "target":      "win",
-        "version":     "1.0",
-        "description": "WordGrinder is a simple, Unicode-aware word processor that runs on the console."
-      }}
-    ]}
-
+    }}
+  ]},
+
+  {"crosshell_bufferman":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet for saving and loading the pwsh screen buffer."
+    }}
+  ]},
+
+  {"crosshell_changedirectory":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet for changing your directory, moves to dir."
+    }}
+  ]},
+
+  {"crosshell_clear":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets for clearing the screen."
+    }}
+  ]},
+
+  {"crosshell_comments":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets for managing comments."
+    }}
+  ]},
+
+  {"crosshell_debugger":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Tool for enabling or disabling debug options in the shell."
+    }}
+  ]},
+
+  {"crosshell_externalShell":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet to start the console in a separate window."
+    }}
+  ]},
+
+  {"crosshell_get-help":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cdmlets for showing help. And to show more information about commands."
+    }}
+  ]},
+
+  {"crosshell_hello":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Hello beutiful world!"
+    }}
+  ]},
+
+  {"crosshell_hhead":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets regarding the header in the msgcentral."
+    }}
+  ]},
+
+  {"crosshell_host":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets regarding the host machine or shell."
+    }}
+  ]},
+
+  {"crosshell_interpreter":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets for cross-language interpritation in the console."
+    }}
+  ]},
+
+  {"crosshell_list":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for listing stuff out to the console."
+    }}
+  ]},
+
+  {"crosshell_logview":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for viewing and managing log files."
+    }}
+  ]},
+
+  {"crosshell_msgcentral":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for managing the message central."
+    }}
+  ]},
+
+  {"crosshell_packagehand":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Crosshells packagehandler. Packagehand!"
+    }}
+  ]},
+
+  {"crosshell_prefix":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets for managing the console prefix."
+    }}
+  ]},
+
+  {"crosshell_reload-restart":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for reloading and restarting the console"
+    }}
+  ]},
+
+  {"crosshell_scripthost":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Crosshell scripthost."
+    }}
+  ]},
+
+  {"crosshell_searchtermgenerator":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contians cmdlets for helping with generating search terms."
+    }}
+  ]},
+
+  {"crosshell_settings":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contians cmdlets for handling and managing settings for the console."
+    }}
+  ]},
+
+  {"crosshell_start":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for starting apps or files on the computer."
+    }}
+  ]},
+
+  {"crosshell_sys":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains system managing cmdlets."
+    }}
+  ]},
+
+  {"crosshell_text":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for testing, formating and managing text."
+    }}
+  ]},
+
+  {"crosshell_title":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlets to handle the console title."
+    }}
+  ]},
+
+  {"crosshell_touch":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Creates empty files."
+    }}
+  ]},
+
+  {"crosshell_variables":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contians cmdlets for handling variables."
+    }}
+  ]},
+
+  {"crosshell_devtools":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Development tools for Crosshell."
+    }}
+  ]},
+
+  {"crosshell_test-cmdlet":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Test cmdlet"
+    }}
+  ]},
+
+  {"Applinks":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets shortcuts for apps."
+    }}
+  ]},
+
+  {"IsItUp":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "An unofficial tool to check if a site is up using isitup.org"
+    }}
+  ]},
+
+  {"MandelBrot":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet for generating a Mandelbrot set."
+    }}
+  ]},
+
+  {"PlayBeepfile":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet for playing BeepFiles."
+    }}
+  ]},
+
+  {"SearchBlackBox":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "An unofficial tool to search for code on useblackbox.io."
+    }}
+  ]},
+
+  {"WifiFinder":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet for showing wifi passwords."
+    }}
+  ]},
+
+  {"box":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Draws a box on screen."
+    }}
+  ]},
+
+  {"calculator":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for calculating numbers and other stuff."
+    }}
+  ]},
+
+  {"converters":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contians cmdlet for helping with converting diffrent formats and encodings."
+    }}
+  ]},
+
+  {"dashtime":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Whats the time? Whats the week? Dashtime got the answer."
+    }}
+  ]},
+
+  {"explorerForceRestart":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/explorerForceRestart/explorerForceRestart_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "Forces explorer.exe to restart."
+    }}
+  ]},
+
+  {"gamehub_games":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet containing diffrent games."
+    }}
+  ]},
+
+  {"getConsoleAs":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets and function to get the screenBuffer contents as diffrent file formats."
+    }}
+  ]},
+
+  {"gittip_fileman":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Github uploaded development of fileman (Semi-Open Source)"
+    }}
+  ]},
+
+  {"gittip_tree":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Modified version of the Show-Tree.ps1 script."
+    }}
+  ]},
+
+  {"namedpipes_ch":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlet for using the namedpipes sytem."
+    }}
+  ]},
+
+  {"newExplorer":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/newExplorer/newExplorer_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "Starts the hidden new explorer in windows."
+    }}
+  ]},
+
+  {"playfile":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Play a file."
+    }}
+  ]},
+
+  {"taskbarAligner":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/taskbarAligner/taskbarAligner_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "Tool to align the windows 11 taskbar"
+    }}
+  ]},
+
+  {"texttospeech":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Texttospeech."
+    }}
+  ]},
+
+  {"DictionaryConverter":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Dictionary converter for wordgrinder."
+    }}
+  ]},
+
+  {"wsl_installer":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Script to install WSL on windows."
+    }}
+  ]},
+
+  {"bat":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bat/bat_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "A cat(1) clone with syntax highlighting and Git integration."
+    }}
+  ]},
+
+  {"bottom":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bottom/bottom_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "A customizable cross-platform graphical process/system monitor for the terminal."
+    }}
+  ]},
+
+  {"cowsay":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Powershell port by Luke Sampson."
+    }}
+  ]},
+
+  {"emoji":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "This module enables you to retrieve a Unicode emoji as a string."
+    }}
+  ]},
+
+  {"exa":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/exa/exa_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "A modern replacement for ls."
+    }}
+  ]},
+
+  {"fortune":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Fortune for Windows Powershell."
+    }}
+  ]},
+
+  {"fuzzyfinder":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fuzzyfinder/fuzzyfinder_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "A command-line fuzzy finder."
+    }}
+  ]},
+
+  {"lolcat":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Simplified implementation of lolcat in PowerShell."
+    }}
+  ]},
+
+  {"micro":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "2.0.11",
+      "description": "A modern and intuitive terminal-based text editor."
+    }}
+  ]},
+
+  {"piglet":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "PowerShell implementation of the popular Figlet command line utility."
+    }}
+  ]},
+
+  {"psano":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Text Editor a bit like nano, written in pure powershell."
+    }}
+  ]},
+
+  {"pwshfetch":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Winfetch is a command-line system information utility written in PowerShell 5+."
+    }}
+  ]},
+
+  {"wordgrinder":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/wordgrinder/wordgrinder_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "WordGrinder is a simple, Unicode-aware word processor that runs on the console."
+    }}
   ]}
+
+  
 ]}
