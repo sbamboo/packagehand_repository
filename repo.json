@@ -1,7 +1,9 @@
 {"packagehand_repo":[
   {"vTag":"test_a1.1"},
 
-  {"test-cmdlet":[
+  
+
+  {"":[
     {"latest":{
       "type":        "cmdlet",
       "sourcetype":  "web",
@@ -12,7 +14,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.1",
+      "version":     "1.0",
       "description": "Test cmdlet"
     }}
   ]}
