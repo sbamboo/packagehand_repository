@@ -1,21 +1,741 @@
 {"packagehand_repo":[
   {"vTag":"test_a1.1"},
 
-  
 
-  {"":[
+  {"crosshell_basedir":[
     {"latest":{
       "type":        "cmdlet",
       "sourcetype":  "web",
       "source":{
-        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package",
-        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package",
-        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlets/test/global/testcmdlet_latest_global.package"
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_basedir/crosshell_basedir_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_basedir/crosshell_basedir_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_basedir/crosshell_basedir_latest_global.package"
       },
       "format":      "zip",
       "target":      "global",
       "version":     "1.0",
       "description": "Test cmdlet"
-    }}
-  ]}
+    }},
+
+    {"crosshell_bufferman":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_bufferman/crosshell_bufferman_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_changedirectory":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_changedirectory/crosshell_changedirectory_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_clear":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_clear/crosshell_clear_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_comments":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_comments/crosshell_comments_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_debugger":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_debugger/crosshell_debugger_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_externalShell":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_externalShell/crosshell_externalShell_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_get-help":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_get-help/crosshell_get-help_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_hello":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hello/crosshell_hello_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_hhead":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_hhead/crosshell_hhead_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_host":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_host/crosshell_host_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_interpreter":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_interpreter/crosshell_interpreter_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_list":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_list/crosshell_list_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_logview":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_logview/crosshell_logview_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_msgcentral":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_msgcentral/crosshell_msgcentral_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_packagehand":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_packagehand/crosshell_packagehand_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_prefix":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_prefix/crosshell_prefix_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_reload-restart":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_reload-restart/crosshell_reload-restart_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_scripthost":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_scripthost/crosshell_scripthost_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_searchtermgenerator":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_searchtermgenerator/crosshell_searchtermgenerator_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_settings":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_settings/crosshell_settings_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_start":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_start/crosshell_start_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_sys":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_sys/crosshell_sys_latest_win.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_text":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_text/crosshell_text_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_title":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_title/crosshell_title_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_touch":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_touch/crosshell_touch_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_variables":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_variables/crosshell_variables_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_devtools":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_devtools/crosshell_devtools_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"crosshell_test-cmdlet":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"box":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/box/box_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"calculator":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/calculator/calculator_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"converters":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"dashtime":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"explorerForceRestart":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"gamehub_games":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"getConsoleAs":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"gittip_fileman":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"gittip_tree":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"namedpipes_ch":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"newExplorer":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"playfile":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"taskbarAligner":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"texttospeech":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"DictionaryConverter":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"wsl_installer":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]}
+
+
 ]}
