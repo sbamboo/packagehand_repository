@@ -14,7 +14,7 @@
       "format":      "zip",
       "target":      "global",
       "version":     "1.0",
-      "description": "Test cmdlet"
+      "description": "Cds to basedir."
     }},
 
     {"crosshell_bufferman":[
@@ -29,7 +29,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet for saving and loading the pwsh screen buffer."
       }}
     ]},
 
@@ -45,7 +45,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet for changing your directory, moves to dir."
       }}
     ]},
 
@@ -61,7 +61,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets for clearing the screen."
       }}
     ]},
 
@@ -77,7 +77,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets for managing comments."
       }}
     ]},
 
@@ -93,7 +93,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Tool for enabling or disabling debug options in the shell."
       }}
     ]},
 
@@ -109,7 +109,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet to start the console in a separate window."
       }}
     ]},
 
@@ -125,7 +125,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cdmlets for showing help. And to show more information about commands."
       }}
     ]},
 
@@ -141,7 +141,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Hello beutiful world!"
       }}
     ]},
 
@@ -157,7 +157,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets regarding the header in the msgcentral."
       }}
     ]},
 
@@ -173,7 +173,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets regarding the host machine or shell."
       }}
     ]},
 
@@ -189,7 +189,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets for cross-language interpritation in the console."
       }}
     ]},
 
@@ -205,7 +205,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for listing stuff out to the console."
       }}
     ]},
 
@@ -221,7 +221,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for viewing and managing log files."
       }}
     ]},
 
@@ -237,7 +237,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for managing the message central."
       }}
     ]},
 
@@ -253,7 +253,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Crosshells packagehandler. Packagehand!"
       }}
     ]},
 
@@ -269,7 +269,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets for managing the console prefix."
       }}
     ]},
 
@@ -285,7 +285,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for reloading and restarting the console"
       }}
     ]},
 
@@ -301,7 +301,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Crosshell scripthost."
       }}
     ]},
 
@@ -317,7 +317,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contians cmdlets for helping with generating search terms."
       }}
     ]},
 
@@ -333,7 +333,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contians cmdlets for handling and managing settings for the console."
       }}
     ]},
 
@@ -349,7 +349,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for starting apps or files on the computer."
       }}
     ]},
 
@@ -365,7 +365,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains system managing cmdlets."
       }}
     ]},
 
@@ -381,7 +381,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for testing, formating and managing text."
       }}
     ]},
 
@@ -397,7 +397,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlets to handle the console title."
       }}
     ]},
 
@@ -413,7 +413,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Creates empty files."
       }}
     ]},
 
@@ -429,7 +429,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contians cmdlets for handling variables."
       }}
     ]},
 
@@ -445,7 +445,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Development tools for Crosshell."
       }}
     ]},
 
@@ -477,7 +477,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets shortcuts for apps."
       }}
     ]},
 
@@ -493,7 +493,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "An unofficial tool to check if a site is up using isitup.org"
       }}
     ]},
 
@@ -509,7 +509,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet for generating a Mandelbrot set."
       }}
     ]},
 
@@ -525,7 +525,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet for playing BeepFiles."
       }}
     ]},
 
@@ -541,7 +541,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "An unofficial tool to search for code on useblackbox.io."
       }}
     ]},
 
@@ -557,7 +557,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet for showing wifi passwords."
       }}
     ]},
 
@@ -573,7 +573,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Draws a box on screen."
       }}
     ]},
 
@@ -589,7 +589,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets for calculating numbers and other stuff."
       }}
     ]},
 
@@ -605,7 +605,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contians cmdlet for helping with converting diffrent formats and encodings."
       }}
     ]},
 
@@ -621,7 +621,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Whats the time? Whats the week? Dashtime got the answer."
       }}
     ]},
 
@@ -637,7 +637,7 @@
         "format":      "zip",
         "target":      "win",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Forces explorer.exe to restart."
       }}
     ]},
 
@@ -653,7 +653,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Cmdlet containing diffrent games."
       }}
     ]},
 
@@ -669,7 +669,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlets and function to get the screenBuffer contents as diffrent file formats."
       }}
     ]},
 
@@ -685,7 +685,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Github uploaded development of fileman (Semi-Open Source)"
       }}
     ]},
 
@@ -701,7 +701,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Modified version of the Show-Tree.ps1 script."
       }}
     ]},
 
@@ -717,7 +717,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Contains cmdlet for using the namedpipes sytem."
       }}
     ]},
 
@@ -733,7 +733,7 @@
         "format":      "zip",
         "target":      "win",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Starts the hidden new explorer in windows."
       }}
     ]},
 
@@ -749,7 +749,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Play a file."
       }}
     ]},
 
@@ -765,7 +765,7 @@
         "format":      "zip",
         "target":      "win",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Tool to align the windows 11 taskbar"
       }}
     ]},
 
@@ -781,7 +781,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Texttospeech."
       }}
     ]},
 
@@ -797,7 +797,7 @@
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Dictionary converter for wordgrinder."
       }}
     ]},
 
@@ -806,30 +806,222 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/wsl_installer/wsl_installer_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Script to install WSL on windows."
       }}
     ]},
 
-    {"":[
+    {"bat":[
       {"latest":{
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bat/bat_latest_win.package",
           "lnx":       "",
           "mac":       ""
         },
         "format":      "zip",
+        "target":      "win",
+        "version":     "1.0",
+        "description": "A cat(1) clone with syntax highlighting and Git integration."
+      }}
+    ]},
+
+    {"bottom":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/bottom/bottom_latest_win.package",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "win",
+        "version":     "1.0",
+        "description": "A customizable cross-platform graphical process/system monitor for the terminal."
+      }}
+    ]},
+
+    {"cowsay":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/cowsay/cowsay_latest_global.package"
+        },
+        "format":      "zip",
         "target":      "global",
         "version":     "1.0",
-        "description": "Test cmdlet"
+        "description": "Powershell port by Luke Sampson."
+      }}
+    ]},
+
+    {"emoji":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/emoji/emojis_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "This module enables you to retrieve a Unicode emoji as a string."
+      }}
+    ]},
+
+    {"exa":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/exa/exa_latest_win.package",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "win",
+        "version":     "1.0",
+        "description": "A modern replacement for ls."
+      }}
+    ]},
+
+    {"fortune":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fortune/fortune_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Fortune for Windows Powershell."
+      }}
+    ]},
+
+    {"fuzzyfinder":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/fuzzyfinder/fuzzyfinder_latest_win.package",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "win",
+        "version":     "1.0",
+        "description": "A command-line fuzzy finder."
+      }}
+    ]},
+
+    {"lolcat":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/lolcat/lolcat_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Simplified implementation of lolcat in PowerShell."
+      }}
+    ]},
+
+    {"micro":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/micro/micro-2.0.11_latest_win.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "2.0.11",
+        "description": "A modern and intuitive terminal-based text editor."
+      }}
+    ]},
+
+    {"piglet":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "PowerShell implementation of the popular Figlet command line utility."
+      }}
+    ]},
+
+    {"psano":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/psano/psano_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Text Editor a bit like nano, written in pure powershell."
+      }}
+    ]},
+
+    {"pwshfetch":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/pwshfetch/pwshfetch_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Winfetch is a command-line system information utility written in PowerShell 5+."
+      }}
+    ]},
+
+    {"wordgrinder":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/wordgrinder/wordgrinder_latest_win.package",
+          "lnx":       "",
+          "mac":       ""
+        },
+        "format":      "zip",
+        "target":      "win",
+        "version":     "1.0",
+        "description": "WordGrinder is a simple, Unicode-aware word processor that runs on the console."
       }}
     ]}
 
