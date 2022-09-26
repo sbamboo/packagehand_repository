@@ -465,6 +465,102 @@
       }}
     ]},
 
+    {"Applinks":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/Applinks/Applinks_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"IsItUp":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/IsItUp/IsItUp_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"MandelBrot":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/MandelBrot/MandelBrot_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"PlayBeepfile":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PlayBeepfile/PlayBeepfile_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"SearchBlackBox":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/SearchBlackBox/SearchBlackBox_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
+    {"WifiFinder":[
+      {"latest":{
+        "type":        "cmdlet",
+        "sourcetype":  "web",
+        "source":{
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/WifiFinder/WifiFinder_latest_global.package"
+        },
+        "format":      "zip",
+        "target":      "global",
+        "version":     "1.0",
+        "description": "Test cmdlet"
+      }}
+    ]},
+
     {"box":[
       {"latest":{
         "type":        "cmdlet",
@@ -502,9 +598,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/converters/converters_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -518,9 +614,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/dashtime/dashtime_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -534,12 +630,12 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/explorerForceRestart/explorerForceRestart_latest_win.package",
           "lnx":       "",
           "mac":       ""
         },
         "format":      "zip",
-        "target":      "global",
+        "target":      "win",
         "version":     "1.0",
         "description": "Test cmdlet"
       }}
@@ -550,9 +646,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gamehub_games/gamehub_games_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -566,9 +662,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/getConsoleAs/getConsoleAs_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -582,9 +678,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_fileman/gittip_fileman_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -598,9 +694,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/gittip_tree/gittip_tree_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -614,9 +710,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/namedpipes_ch/namedpipes_ch_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -630,12 +726,12 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/newExplorer/newExplorer_latest_win.package",
           "lnx":       "",
           "mac":       ""
         },
         "format":      "zip",
-        "target":      "global",
+        "target":      "win",
         "version":     "1.0",
         "description": "Test cmdlet"
       }}
@@ -646,9 +742,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/playfile/playfile_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -662,12 +758,12 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/taskbarAligner/taskbarAligner_latest_win.package",
           "lnx":       "",
           "mac":       ""
         },
         "format":      "zip",
-        "target":      "global",
+        "target":      "win",
         "version":     "1.0",
         "description": "Test cmdlet"
       }}
@@ -678,9 +774,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/texttospeech/texttospeech_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
@@ -694,9 +790,9 @@
         "type":        "cmdlet",
         "sourcetype":  "web",
         "source":{
-          "win":       "",
-          "lnx":       "",
-          "mac":       ""
+          "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
+          "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package",
+          "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/DictionaryConverter/DictionaryConverter_latest_global.package"
         },
         "format":      "zip",
         "target":      "global",
