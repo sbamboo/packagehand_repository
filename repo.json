@@ -972,7 +972,7 @@
         "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package"
       },
       "format":      "zip",
-      "target":      "global",
+      "target":      "lnx",
       "version":     "1.0",
       "description": "PowerShell implementation of the popular Figlet command line utility."
     }}
