@@ -962,14 +962,14 @@
     }}
   ]},
 
-  {"piglet":[
+  {"piglet-figlet":[
     {"latest":{
       "type":        "cmdlet",
       "sourcetype":  "web",
       "source":{
-        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
-        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package",
-        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/blob/main/repository/cmdlet/_thirdpartyimports/piglet/piglet_latest_global.package"
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/piglet-figlet/piglet-figlet_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/piglet-figlet/piglet-figlet_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/piglet-figlet/piglet-figlet_latest_global.package"
       },
       "format":      "zip",
       "target":      "global",
