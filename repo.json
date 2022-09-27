@@ -434,6 +434,22 @@
     }}
   ]},
 
+  {"crosshell_ping":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_ping/crosshell_ping_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_ping/crosshell_ping_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_ping/crosshell_ping_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Pong!"
+    }}
+  ]},
+
   {"crosshell_devtools":[
     {"latest":{
       "type":        "cmdlet",
