@@ -1026,6 +1026,22 @@
     }}
   ]},
 
+  {"qualculate":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/qualculate/qalculate_latest_win.package",
+        "lnx":       "",
+        "mac":       ""
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "Qualculate cli calculator."
+    }}
+  ]},
+
   {"private_mathplan":[
     {"latest":{
       "type":        "cmdlet",
