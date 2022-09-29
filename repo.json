@@ -450,6 +450,22 @@
     }}
   ]},
 
+  {"crosshell_update":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_update/crosshell_update_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_update/crosshell_update_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_update/crosshell_update_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Updater for crosshell (beta)"
+    }}
+  ]},
+
   {"crosshell_devtools":[
     {"latest":{
       "type":        "cmdlet",
