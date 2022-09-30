@@ -269,7 +269,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "2.0",
+      "version":     "3.0",
       "description": "Cmdlets for managing the console prefix."
     }}
   ]},
