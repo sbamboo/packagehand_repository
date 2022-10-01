@@ -333,7 +333,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.2",
       "description": "Contians cmdlets for handling and managing settings for the console."
     }}
   ]},
@@ -365,7 +365,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Contains system managing cmdlets."
     }}
   ]},
