@@ -498,6 +498,22 @@
     }}
   ]},
 
+  {"SchoolTools":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/schooltools/schooltools_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/schooltools/schooltools_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/schooltools/schooltools_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains tools for schoolwork and/or general work. (misc)"
+    }}
+  ]},
+
   {"Applinks":[
     {"latest":{
       "type":        "cmdlet",
