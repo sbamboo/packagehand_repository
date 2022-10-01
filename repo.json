@@ -285,7 +285,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.5",
       "description": "Contains cmdlets for reloading and restarting the console"
     }}
   ]},
