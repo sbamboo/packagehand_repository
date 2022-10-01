@@ -1127,13 +1127,13 @@
       "type":        "cmdlet",
       "sourcetype":  "web",
       "source":{
-        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/richprefix_latest_global.package",
-        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/richprefix_latest_global.package",
-        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/richprefix_latest_global.package"
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/private_richprefix_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/private_richprefix_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_private/private_richprefix/private_richprefix_latest_global.package"
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Rich prefix cmdlets."
     }}
   ]}
