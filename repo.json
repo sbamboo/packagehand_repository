@@ -509,7 +509,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Contains tools for schoolwork and/or general work. (misc)"
     }}
   ]},
