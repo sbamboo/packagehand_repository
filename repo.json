@@ -365,7 +365,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.1",
+      "version":     "1.2",
       "description": "Contains system managing cmdlets."
     }}
   ]},
