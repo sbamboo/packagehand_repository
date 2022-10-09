@@ -253,7 +253,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.1",
+      "version":     "2.0",
       "description": "Crosshells packagehandler. Packagehand!"
     }}
   ]},
@@ -285,7 +285,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.5",
+      "version":     "2.0",
       "description": "Contains cmdlets for reloading and restarting the console"
     }}
   ]},
@@ -477,7 +477,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "2.0",
       "description": "Development tools for Crosshell."
     }}
   ]},
@@ -495,6 +495,22 @@
       "target":      "global",
       "version":     "1.0",
       "description": "Test cmdlet"
+    }}
+  ]},
+
+  {"crosshell_information":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_development/crosshell_test-cmdlet/crosshell_test-cmdlet_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Contains cmdlets for information."
     }}
   ]},
 
