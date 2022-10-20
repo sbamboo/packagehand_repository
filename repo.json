@@ -98,6 +98,22 @@
     }}
   ]},
 
+  {"crosshell_directorysave":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_directorysave/crosshell-directorySave_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_directorysave/crosshell-directorySave_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_directorysave/crosshell-directorySave_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Allowes you to save and load a work directory."
+    }}
+  ]},
+
   {"crosshell_externalShell":[
     {"latest":{
       "type":        "cmdlet",
@@ -125,7 +141,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.2",
+      "version":     "1.3",
       "description": "Contains cdmlets for showing help. And to show more information about commands."
     }}
   ]},
@@ -461,7 +477,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.3",
+      "version":     "1.4",
       "description": "Updater for crosshell (beta)"
     }}
   ]},
