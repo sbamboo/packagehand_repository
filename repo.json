@@ -477,7 +477,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.5",
+      "version":     "1.6",
       "description": "Updater for crosshell (beta)"
     }}
   ]},
