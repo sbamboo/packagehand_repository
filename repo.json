@@ -130,6 +130,22 @@
     }}
   ]},
 
+  {"crosshell_essentials ":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_essentials/crosshell_essentials_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_essentials/crosshell_essentials_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_essentials/crosshell_essentials_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Crosshell.builtins.essentials_desc"
+    }}
+  ]},
+
   {"crosshell_get-help":[
     {"latest":{
       "type":        "cmdlet",
@@ -141,7 +157,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.3",
+      "version":     "1.4",
       "description": "Contains cdmlets for showing help. And to show more information about commands."
     }}
   ]},
@@ -450,6 +466,22 @@
     }}
   ]},
 
+  {"crosshell_webcommunicationkit":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_webcommunicationkit/crosshell_webcommunicationkit_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_webcommunicationkit/crosshell_webcommunicationkit_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_builtins/crosshell_webcommunicationkit/crosshell_webcommunicationkit_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Crosshell.builtins.webcommunicationkit_desc"
+    }}
+  ]},
+
   {"crosshell_ping":[
     {"latest":{
       "type":        "cmdlet",
@@ -477,7 +509,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.6",
+      "version":     "1.7",
       "description": "Updater for crosshell (beta)"
     }}
   ]},
