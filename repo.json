@@ -130,7 +130,7 @@
     }}
   ]},
 
-  {"crosshell_essentials ":[
+  {"crosshell_essentials":[
     {"latest":{
       "type":        "cmdlet",
       "sourcetype":  "web",
