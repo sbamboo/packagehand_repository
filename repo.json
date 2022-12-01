@@ -125,7 +125,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Cmdlet to start the console in a separate window."
     }}
   ]},
@@ -157,7 +157,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.4",
+      "version":     "1.5",
       "description": "Contains cdmlets for showing help. And to show more information about commands."
     }}
   ]},
@@ -269,7 +269,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Contains cmdlets for managing the message central."
     }}
   ]},
@@ -285,7 +285,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "2.0",
+      "version":     "2.3",
       "description": "Crosshells packagehandler. Packagehand!"
     }}
   ]},
@@ -317,7 +317,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "2.0",
+      "version":     "2.1",
       "description": "Contains cmdlets for reloading and restarting the console"
     }}
   ]},
@@ -365,7 +365,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.2",
+      "version":     "1.3",
       "description": "Contians cmdlets for handling and managing settings for the console."
     }}
   ]},
@@ -397,7 +397,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.2",
+      "version":     "1.3",
       "description": "Contains system managing cmdlets."
     }}
   ]},
@@ -477,7 +477,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Crosshell.builtins.webcommunicationkit_desc"
     }}
   ]},
@@ -509,7 +509,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.8",
+      "version":     "1.9",
       "description": "Updater for crosshell (beta)"
     }}
   ]},
@@ -525,7 +525,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "2.0",
+      "version":     "2.1",
       "description": "Development tools for Crosshell."
     }}
   ]},
@@ -557,7 +557,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Contains cmdlets for information."
     }}
   ]},
@@ -701,8 +701,40 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Contains cmdlets for calculating numbers and other stuff."
+    }}
+  ]},
+
+  {"colorTool":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/colorTool/colorTool_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/colorTool/colorTool_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/colorTool/colorTool_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "A tool for colors."
+    }}
+  ]},
+
+  {"PSCloneTheme":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PSCloneTheme/PSCloneTheme_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PSCloneTheme/PSCloneTheme_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/PSCloneTheme/PSCloneTheme_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Cmdlet that loads a PSClone theme."
     }}
   ]},
 
@@ -719,6 +751,22 @@
       "target":      "global",
       "version":     "1.0",
       "description": "Contians cmdlet for helping with converting diffrent formats and encodings."
+    }}
+  ]},
+
+  {"contentViewer":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/contentViewer/contentViewer_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/contentViewer/contentViewer_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/contentViewer/contentViewer_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "global",
+      "version":     "1.0",
+      "description": "Bat inspired file content viewer."
     }}
   ]},
 
@@ -765,7 +813,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.1",
+      "version":     "2.0",
       "description": "Cmdlet containing diffrent games."
     }}
   ]},
@@ -861,7 +909,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.1",
       "description": "Play a file."
     }}
   ]},
@@ -1154,6 +1202,22 @@
     }}
   ]},
 
+  {"SwearWordGenerator":[
+    {"latest":{
+      "type":        "cmdlet",
+      "sourcetype":  "web",
+      "source":{
+        "win":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/SwearWordGenerator/SwearWordGenerator_latest_global.package",
+        "lnx":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/SwearWordGenerator/SwearWordGenerator_latest_global.package",
+        "mac":       "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/repository/cmdlet/_thirdpartyimports/SwearWordGenerator/SwearWordGenerator_latest_global.package"
+      },
+      "format":      "zip",
+      "target":      "win",
+      "version":     "1.0",
+      "description": "Otis Gustafsson's Swearword generator."
+    }}
+  ]},
+
   {"private_mathplan":[
     {"latest":{
       "type":        "cmdlet",
@@ -1165,7 +1229,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.1",
+      "version":     "2.0",
       "description": "Mathplan shower."
     }}
   ]},
@@ -1181,7 +1245,7 @@
       },
       "format":      "zip",
       "target":      "global",
-      "version":     "1.0",
+      "version":     "1.2",
       "description": "Python calculator."
     }}
   ]},
