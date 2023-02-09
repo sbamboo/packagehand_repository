@@ -1,5 +1,7 @@
 {"Repository":{
   
+    "FormatVersion": 1,
+
     "Meta":{
         "Author": "Crosshell", // The author of the repository, used for identification
         "Id": "96825035-189a-430a-ade9-de557ffd6a7b", // UUID fpr the repository, used for identification
@@ -11,9 +13,27 @@
 
         {"TestingPackage":{
             "Author": "Simon Kalmi Claesson", // The author of the package, will be stripped of spaces and lowered apon install
-            "Type": "UrlPackage" //Types are in 
+            "PackageType": "cmdlet", // What is this package, 'cmdlet' for a cmdlet package
+            "Versions": [ // This contians al version of the package, atleast a "Latest" package must be present since it's defaulted to.
+
+                {"Latest": { // Version name (Needed for install)
+                    "VersionNumerical": "1.0", // Numerical version number of package version
+                    "Description": "Testing package", // Description for the package
+                    "Sources": [ // This is to allow both platform specific sources and only global if needed (Note! These are automaticly choosen so you must include al that is avaliable, or users wont be able to download it)
+                        {"Platform": ["Global"], // 'Global' for every platform, or a combination of 'win', 'lnx', 'mac' for respective platforms
+                          "Type": "UrlPackage", //Types are in 'https://raw.githubusercontent.com/simonkalmiclaesson/packagehand_repository/main/crosshell_zedix/types.yaml'
+                          "FileFormat": "package", // The fileextension used, on UrlPackage should always be package
+                          "Source": "<INSERT_URL_HERE>", // Url to source, check format based on types ^^^
+                          "Overwrites": { // Overwrites, leave them as empty strings to disable
+                            "Properties": "", //Escape characters inside quotes. Note! This is the raw properties file so new lines for every propertie using a newline character. ("\n")
+                            "WrapperScript": "" //Source for a wrapper script escape characters and include newlines just like in the properties section. This should be code that wrapps something in a script. Include correct properties for wrappers.
+                          }
+                        }
+                    ]
+                }}
+
+            ]
         }}
 
     ]
-
 }}

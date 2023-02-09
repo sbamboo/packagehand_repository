@@ -1,3 +1,3 @@
-"Url-Package": "The url to a complete package file (.package)"
-"Url-zip": "Non package just source, in zip format"
-"Url-SingeFile": "Url to executable single file"
+"UrlPackage": "The url to a complete package file (.package)"
+"UrlSourceArchive": "Non package just source, in zip format"
+"UrlSourceFile": "Url to executable single file"
