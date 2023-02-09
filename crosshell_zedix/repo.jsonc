@@ -1,0 +1,19 @@
+{"Repository":{
+  
+    "Meta":{
+        "Author": "Crosshell", // The author of the repository, used for identification
+        "Id": "96825035-189a-430a-ade9-de557ffd6a7b", // UUID fpr the repository, used for identification
+        "CreationDate": "2023-02-09", // Creation date of the repository
+        "UpdateDate": "2023-02-09" // When the repository was last updated
+    },
+  
+    "Entries": [
+
+        {"TestingPackage":{
+            "Author": "Simon Kalmi Claesson", // The author of the package, will be stripped of spaces and lowered apon install
+            "Type": "UrlPackage" //Types are in 
+        }}
+
+    ]
+
+}}
