@@ -1,15 +1,13 @@
+// Format: [SB]JSON.1[EB] (SB is a startblock and EB is the end block)
 {"Repository":{
-    "Format": {
-        "Type": "JSON",
-        "Version": 1
-    },
 
     "Meta":{
         "Author": "Crosshell", // The author of the repository, used for identification
         "Id": "96825035-189a-430a-ade9-de557ffd6a7b", // Id for verification.
         "VersionNumerical": "1.0", // Numerical version of the repository, used to check if newer repo version is avaliable.
         "CreationDate": "2023-02-09", // Creation date of the repository
-        "UpdateDate": "2023-02-09" // When the repository was last updated
+        "UpdateDate": "2023-02-09", // When the repository was last updated
+        "RepositoryUrl": "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/crosshell_zedix/repo.jsonc" // The url to find the repository, this is needed for updates.
     },
   
     "Entries": [
