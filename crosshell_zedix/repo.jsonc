@@ -30,6 +30,10 @@
                             "WrapperScript": "" //Source for a wrapper script escape characters and include newlines just like in the properties section. This should be code that wrapps something in a script. Include correct properties for wrappers.
                           }
                         }
+                    ],
+                    "Dependencies": [
+                        {"Type":"package","Source":"crosshell.core.latest"}, //if type 'package' source is package name (Note, version included as a dot)
+                        {"Type":"pipinstall","Source":"pyyaml"} //if type 'pipinstall' source is pip package to install
                     ]
                 }}
 
