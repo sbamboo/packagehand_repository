@@ -13,7 +13,7 @@
     "Entries": [
 
         {"TestingPackage":{
-            "Author": "", // The author of the package
+            "Author": "crsh", // The author of the package
             "License": "", // The license applying to the package, enter URL if license is longer then one line. And leave empty to use the crosshell license.
             "PackageType": "cmdlet", // What is this package, 'cmdlet' for a cmdlet package
             "Versions": [ // This contians al version of the package, atleast a "Latest" package must be present since it's defaulted to.
