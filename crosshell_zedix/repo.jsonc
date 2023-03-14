@@ -5,7 +5,7 @@
         "Author": "Crosshell", // The author of the repository
         "Id": "96825035-189a-430a-ade9-de557ffd6a7b",
         "Version": "1.0", // Numerical version of the repository.
-        "VersionID": "1", // The version id, should be incremented at each update of the repository
+        "IncrementVersion": "1", // The version id, should be incremented at each update of the repository
         "CreationDate": "2023-03-13", // Creation date of the repository
         "UpdateDate": "2023-03-13", // When the repository was last updated
         "RepositoryUrl": "https://github.com/simonkalmiclaesson/packagehand_repository/raw/main/crosshell_zedix/repo.jsonc" // The url to find the repository, this is needed for updates.
@@ -21,7 +21,7 @@
 
                 {"Latest": { // Version name (Needed for install)
                     "VersionNumerical": "1.0", // Numerical version number of package version
-                    "VersionID": "1", // Increment on update of version. Used for update system
+                    "IncrementVersion": "1", // Increment on update of version. Used for update system
                     "Description": "Testing package", // Description for the package
                     "Sources": [ // This is to allow both platform specific sources and only global if needed (Note! These are automaticly choosen so you must include al that is avaliable, or users wont be able to download it)
                         {"Platform": ["Global"], // 'Global' for every platform, or a combination of 'win', 'lnx', 'mac' for respective platforms
