@@ -28,8 +28,9 @@
                           "FileFormat": "package", // The fileextension used, on UrlPackage should always be package
                           "Source": "<INSERT_URL_HERE>", // Url to source, check format based on types ^^^
                           "Overwrites": { // Overwrites, leave them as empty strings to disable
-                            "MainFileName": "", //The file name excluding fileending of the executable file to create a properties file for
+                            "PropMainFile": "", //The file name excluding fileending of the executable file to create a properties file for
                             "Properties": "", //Escape characters inside quotes. Note! This is the raw properties file so new lines for every propertie using a newline character. ("\n")
+                            "WrapperFileEnding": "", //File ending of the wrapper script file
                             "WrapperScript": "" //Source for a wrapper script escape characters and include newlines just like in the properties section. This should be code that wrapps something in a script. Include correct properties for wrappers.
                           }
                         }
