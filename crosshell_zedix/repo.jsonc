@@ -27,6 +27,7 @@
                           "Dotted": "False", // Wether or not to put the installed files inside a ".dotted" sub folder
                           "FileFormat": "package", // The fileextension used, on UrlPackage should always be package
                           "Source": "<INSERT_URL_HERE>", // Url to source, check format based on types ^^^
+                          "SourceSize": "0", // Size of package in bytes
                           "Overwrites": { // Overwrites, leave them as empty strings to disable
                             "PropMainFile": "", //The file name excluding fileending of the executable file to create a properties file for
                             "Properties": "", //Escape characters inside quotes. Note! This is the raw properties file so new lines for every propertie using a newline character. ("\n")
